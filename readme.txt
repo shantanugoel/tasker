@@ -10,3 +10,4 @@ Profiles:
 alarm-detect.xml
 night-mode.xml
 unlock-detect.xml
+home.xml
